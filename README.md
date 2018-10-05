@@ -5,7 +5,7 @@ XchangePOS v1.0 is a PoS-based cryptocurrency.
 
 This was offered and completed around April 5th and readied for swap into the Digifel community who had fallen victim to a scam and to appease the community for their desire for a swap out coin replacement that the old scammer did still control and later destroyed.  I was going to launch the coin and the 2 assistants refused to be ok with it and asked me to delay longer.  
 
-The Xchange coin on the market is a stolen IP, done by Wizard and Kalcan, their ideas of using in wallet changes, and many others were stolen from conversations of a private nature between me as lead developer and them as coding assistants.  
+The Xchange coin on the market is a stolen IP, done by Wizard and Kalcan, their ideas of using in wallet changes, and many others were stolen from conversations of a private nature between me as lead developer and them as coding assistants.  Scamming the community a 2nd time for their own selfish desires to run away from my leadership and take my coin name with them after i specifically approached them and asked them not to use it.
 
 It wasn't until later in 2018, July, they pushed forward finally having figured out how to make wallets on windows properly and proceeded to edit the unlicensed QT wallets they have made private closed source.
 
